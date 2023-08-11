@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: ;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+section {
+    display: flex;
+    align-items: row;
+    flex-direction: column;
+    width: min-content;
+    background-color: lightblue;
+    height: ;
+}
+
+div.button {
+    display: flex;
+    justify-content: space-around;
+    align-items: ;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightblue;
+    height: 65px;
+    align-items: center;
+}
