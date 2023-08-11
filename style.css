@@ -34,3 +34,7 @@ footer {
     height: 65px;
     align-items: center;
 }
+
+div.style {
+    margin-bottom: 10px;
+}
